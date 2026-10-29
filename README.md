@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Sebastian Nowak
 
-## I'm a Senior AWS Cloud Solutions Architect
+## I'm a Senior AWS AI Cloud Solutions Architect
 
 - 🔭 I enjoy building solutions on AWS Cloud and practising DevOps methodologies ([LinkedIn](https://www.linkedin.com/in/nowaksebastian/))
 - 🎖 7x [AWS Certified Expert](https://www.credly.com/users/sebastian-nowak-ninja/badges)
